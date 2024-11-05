@@ -134,7 +134,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ## 📋 Licença/License
 
-HidroSegurançaestá licenciado sob CC BY 4.0© 2 por Caio Dantas Farias, Eduardo Araújo de Oliveira e Saulo Ribeiro Santos. 
+<p HidroSegurançaestá licenciado sob CC BY 4.0© 2 por Caio Dantas Farias, Eduardo Araújo de Oliveira e Saulo Ribeiro Santos./p>
 
 
 ## 🎓 Referências
