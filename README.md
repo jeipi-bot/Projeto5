@@ -181,8 +181,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 * 0.1.0 - 10/10/2024
     * CONCLUÍDO: Compra de materiais (Caio) 
-* 0.2.0 - 21/05/2024
-    *
+* 0.2.0 - 12/10/2024
+    *CONCLUÍDO: Template (Eduardo) 
 * 0.3.0 - 23/05/2024
     * 
 * 0.4.0 - 24/05/2024
