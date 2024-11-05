@@ -21,14 +21,7 @@
 DESCRIÇÃO DO PROJETO
 .
 <br><br>
-O projeto "Sistema de Detecção e Alerta de Vazamentos em Tanques de Agricultura" foi
-desenvolvido para abordar um problema significativo enfrentado pelos agricultores e pela
-indústria agrícola: vazamentos em tanques de armazenamento agrícola. Estes vazamentos
-podem resultar em danos ambientais, contaminação do solo e da água, além de causar
-perdas econômicas substanciais. Tendo como objetivo principal deste projeto é promover
-uma gestão agrícola mais segura, sustentável e responsável por meio da implementação de
-um sistema eficiente de detecção e alerta de vazamentos em tanques de armazenamento
-agrícola.
+O projeto "Monitoramento de Enchentes em Áreas de Risco" visa reduzir os impactos das enchentes em áreas vulneráveis, utilizando sensores conectados por IoT para monitorar níveis de água e chuvas em tempo real. Com um sistema de alerta precoce, o projeto notificará a população e autoridades sobre riscos iminentes, garantindo uma resposta rápida. Além disso, um dashboard fornecerá dados para decisões informadas, enquanto campanhas de conscientização prepararão as comunidades para agir de forma segura. O objetivo é proteger vidas, minimizar danos e aumentar a resiliência das comunidades em áreas de risco de inundações.
 <br><br>
 ## 🛠 Estrutura de pastas
 
