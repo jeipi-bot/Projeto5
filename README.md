@@ -8,7 +8,7 @@
 
 ## HydroSecure
 
-## Integrantes: <a href="https://www.linkedin.com/in/caio-dantas">Caio Dantas Farias  </a>, <a href="https://linkedin.com/in/hebert-/">Eduardo Araujo de Oliveira	</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Saulo Ribeiro Santos	</a>. 
+## Integrantes: <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias  </a>, <a href="https://linkedin.com/in/hebert-/">Eduardo Araujo de Oliveira	</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Saulo Ribeiro Santos	</a>. 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
 
 ## ✏ Introdução
