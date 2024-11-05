@@ -64,8 +64,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 - ``C++``
 - ``Arduino IDE``
-- ``Banco de Dados Firebase``
-- ``Flutter Flow``
+- ``Blynk IOT``
 
 ## 📖 Requisitos
 ![equipamentos](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/1d33c70f-3e62-4414-8b26-f7d5601d1520)
@@ -73,9 +72,9 @@ Há também 4 pastas que seguem da seguinte forma:
 <br>🛠 Hardware</br>
  <br>•	ESP8266</br>
  <br>•	Sensor ultrassônico </br>
- <br>•	Sensor de turbidez</br>
+ <br>•	Sensor de temperatura e umidade</br>
  <br>•	Protoboard e Jumpers</br>
- <br>•	Conexão Wi-Fi</br>
+ <br>•	Recipiente (Reservatório) </br>
 <br>💻 Software:</br>
  <br>•	Arduino IDE</br>
  <br>•	Conta no Blynk IOT (para transmissão de dados)</br>
@@ -86,94 +85,43 @@ Há também 4 pastas que seguem da seguinte forma:
 <br>•Instale o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> a partir do site oficial.</br>
 <br>•	Abra o Arduino IDE após a instalação.</br>
 
-## ⚙Configuração do Arduino IDE para ESP32
+## ⚙Configuração do Arduino IDE para ESP82
 <br>•	No Arduino IDE, vá em File > Preferences.</br>
 <br>•	Adicione a URL a seguir ao campo "Additional Board Manager URLs"
 ```sh
 https://dl.espressif.com/dl/package_esp32_index.json
 ````
-<br>•	Vá em Tools > Board > Boards Manager, procure por "esp32" e clique em instalar.</br>
+<br>•	Vá em Tools > Board > Boards Manager, procure por "esp82" e clique em instalar.</br>
 
 ## 💻 Instalação de Bibliotecas
-
-<br>•	Firebase ESP Client:</br>
-<br>•	Acesse o repositório no GitHub: <a href="https://github.com/mobizt/Firebase-ESP-Client"> Firebase ESP Client</a>.</br>
-<br>•	Clique no botão "Code" e selecione "Download ZIP" para baixar a biblioteca em formato .zip.</br>
-<br>•	Abra o Arduino IDE.</br>
-<br>•	Vá em Sketch > Include Library > Add .ZIP Library....</br>
-<br>•	Navegue até o local onde você baixou o arquivo .zip e selecione-o.</br>
-<br>•	A biblioteca será adicionada e estará disponível para uso em seus projetos.</br>
-
- <br><strong>📡WiFi</strong></br>
- <br>•	Vá em Sketch > Include Library > Manage Libraries....</br>
- <br>•	Na caixa de busca, digite "WiFi".</br>
- <br>•	Selecione a biblioteca WiFi para ESP32 e clique em "Install".</br>
+<br>• Baixe as bibliotecas Sketch -> Include Library -> Menage Libraries -> pesquise por Blynk e instale.</br>
+<br>• Instale o drive CP210x Universal Windows Driver no site Silicon Labs</br>
+<br>• No Arduino IDE, vá em File > Preferences.</br>
+<br>• Adicione a URL a seguir ao campo "Additional Board Manager URLs"
  
- ## ⚙Configuração do Hardware
-
- ## ⚙Configuração do Firebase
-
- ![firebase](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/2dbc1989-21f0-4207-8746-d65eff2a4656)
-
-<br><strong>2.	Defina as credenciais no código:</strong></br>
-
-
+ ## ⚙Configuração do Blynk IOT
+ <br>• Entre no site do Blykn e faça login:https://blynk.io/</br>
+<br>• Crie um novo projeto e obtenha as credenciais com o token de autenticação;</br>
+<br>• No código do ESP32 inclua a biblioteca do Blynk e insira as credenciais;</br>
+<br>• Estabeleça a conexão com o servidor do Blynk;</br>
+<br>• Configure os pinos virtuais;</br>
+<br>• Com a conexão, integre o ESP32 ao Blynk;</br>
+<br>• Coloque o ESP32 online;</br>
+<br>• Execute atualizações de firmaware OTA;</br>
+<br>• Contrua a Interface;</br>
+<br>• Configure o modelo, alertas, notificações e automações;</br>
+<br>• Após todas as etapas a integração e interface estará pronta.</br>
 
 
 ## ⌨Carregar o Código no ESP82
-<br><strong>1.	Conecte o ESP32 ao computador via cabo USB.</strong></br>
-<br><strong>2.	No Arduino IDE, selecione a placa e a porta correspondente ao ESP32:</strong></br>
- <br>•	Vá em Tools > Board e selecione "DOIT ESP32 DEVKIT V1".</br>
- <br>•	Vá em Tools > Port e selecione a porta onde o ESP32 está conectado.</br>
-<br><strong>3.	Clique em Upload para carregar o código no ESP32.</strong></br>
+<br><strong>1.	Conecte o ESP82 ao computador via cabo USB.</strong></br>
+<br><strong>2.	No Arduino IDE, selecione a placa e a porta correspondente ao ESP82:</strong></br>
+ <br>•	Vá em Tools > Board e selecione "DOIT ESP82 DEVKIT V1".</br>
+ <br>•	Vá em Tools > Port e selecione a porta onde o ESP82 está conectado.</br>
+<br><strong>3.	Clique em Upload para carregar o código no ESP82.</strong></br>
 
 ## 💻Monitoramento
-<br>•	Abra o Serial Monitor (Ctrl + Shift + M) para ver os dados de depuração e confirmar se o ESP32 está conectando ao Wi-Fi e enviando dados ao Firebase corretamente.</br>
-
-## 📱Conexão com o Aplicativo desenvolvido no Flutter Flow
-<br>Para visualizar os dados do sensor em um aplicativo móvel, vamos configurar o Flutter Flow e conectá-lo ao Firebase.</br>
-<br><strong>1. Requisitos</strong></br> 
- <br>•	Conta no Flutter Flow</br>
- <br>•	Conexão Wi-Fi</br>
- <br>•	Conta no Firebase</br>
-## 📱Passo a Passo para Configuração do Flutter Flow
-<br><strong>1.	Criar Conta no Flutter Flow:</strong></br>
- <br>•	Vá para o site do <a href="https://flutterflow.io">Flutter Flow</a> e crie uma conta.</br>
- 
-<br><strong>2.	Configurar Projeto no Flutter Flow:</strong></br>
- <br>•	Após criar uma conta, clique em Create New Project.</br>
- <br>•	Dê um nome ao seu projeto e escolha um template de sua preferência.</br>
- 
-<br><strong>3.	Conectar ao Firebase:</strong></br>
- <br>•	No painel do Flutter Flow, vá para a seção Settings e clique em Firebase.</br>
- <br>•	Siga as instruções para conectar seu projeto Firebase ao Flutter Flow.</br>
- <br>•	Adicione a URL da sua API, a chave do projeto, e outras credenciais do Firebase.</br>
-
-<br><strong>4.	Configurar Coleções no Firebase</strong></br>
-<br><strong>5.	Design das Telas no Flutter Flow:</strong></br>
- <br>•	Crie uma nova tela para exibir os dados do sensor.</br>
- <br>•	Adicione widgets de texto para mostrar os valores de temperatura, turbidez, condição da água, data e horário.</br>
- <br>•	Configure cada widget de texto para puxar dados do Firebase configurando as respectivas referências aos campos da coleção leitura.</br>
-<br><strong>6.	Configurar Tela de Notícias:</strong></br>
- <br>•	Crie uma nova tela para exibir notícias sobre a água.</br>
- <br>•	Adicione widgets de texto ou cards para exibir títulos e descrições de notícias sobre a qualidade da água.</br>
- <br>•	Insira conteúdo estático ou conecte-se a uma coleção no Firebase que contenha notícias.</br>
-<br><strong>7.	Pré-visualização e Testes:</strong></br>
- <br>•	Use o modo de pré-visualização do Flutter Flow para testar seu aplicativo.</br>
- <br>•	Certifique-se de que os dados do Firebase estão sendo corretamente exibidos e atualizados no aplicativo.</br>
-<br><strong>8.	Publicação:</strong></br>
- <br>•	Após testar e garantir que tudo está funcionando, vá em App Settings, depois vá em Web Publishing e clique em Publish.</br>
- <br>•	Será gerado um link, como por exemplo: https://ocean-novinho-l5apv0.flutterflow.app/.</br>
- <br>•	Gere um atalho para simular um app.</br>
-
-<table>
-  <tr>
-    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/7f07536f-68a6-4bce-b40e-aa7eb00992b9" width="300"/></td>
-    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/b702c91a-ab04-486b-9fdb-8d169a772b55" width="300"/></td>
-    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/5ba3e0b6-dd68-4284-b306-570d78801220" width="300"/></td>
-    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/4866f771-8f48-4088-9257-413d146f70d1" width="300"/></td>
-  </tr>
-</table>
+<br>•	Abra o Serial Monitor (Ctrl + Shift + M) para ver os dados de depuração e confirmar se o ESP82 está conectando ao Wi-Fi e enviando dados ao Blynk IOT corretamente.</br>
 
 
 ## 🗃 Histórico de lançamentos
