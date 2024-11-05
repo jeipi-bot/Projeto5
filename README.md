@@ -67,7 +67,7 @@ Há também 4 pastas que seguem da seguinte forma:
 - ``Blynk IOT``
 
 ## 📖 Requisitos
-(![image](https://github.com/user-attachments/assets/e6d2bfdc-fc2a-47af-86d4-d134264c83af)
+![image](https://github.com/user-attachments/assets/e6d2bfdc-fc2a-47af-86d4-d134264c83af)
 
 
 <br>🛠 Hardware</br>
