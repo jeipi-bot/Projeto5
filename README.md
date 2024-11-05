@@ -179,14 +179,14 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 21/05/2024
-    * CONSERTADO: Correção no Bug da turbidez  (Hebert)
+* 0.1.0 - 10/10/2024
+    * CONCLUÍDO: Compra de materiais (Caio) 
 * 0.2.0 - 21/05/2024
-    * MUDANÇA: Compra da caixa organizadora (Alexandra)
-* 0.1.1 - 23/05/2024
-    * CONCLUÍDO: Atualização da Pesquisa de Extensão (Matheus e Karoline)
-* 0.1.0 - 24/05/2024
-    * CONCLUÍDO: Criação do README (Hebert e Alexandra)
+    *
+* 0.3.0 - 23/05/2024
+    * 
+* 0.4.0 - 24/05/2024
+    
 
 ## 📋 Licença/License
 
