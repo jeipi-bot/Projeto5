@@ -26,7 +26,8 @@
 
 <p align="center">
 <img src="![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)" border="0">
-  <a> Feito por: <a> <a href="https://www.linkedin.com/in/alexandra-christine-silva-590092257">Alexandra Christine </a>, <a href="https://linkedin.com/in/hebert-/">Hebert dos Reis Esteves	</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Karoline Lemos Avelar	</a>, <a href="https://www.linkedin.com/in/matheus-santos-morais/">Matheus Santos Morais	</a>.
+  <a> Feito por: <a> <a href="https://www.linkedin.com/in/alexandra-christine-silva-590092257">Caio Dantas Farias </a>, <a href="https://linkedin.com/in/hebert-/">
+Eduardo Araujo de Oliveira</a>,<a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Saulo Ribeiro Santos	</a>.
 </p>
 
 
