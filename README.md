@@ -131,7 +131,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 * 0.3.0 - 23/05/2024 CONCLUÍDO: Teste de sensores (Todos)
 * 0.4.0 - 07/11/2024 ANDAMENTO: Organização do github e pastas (Saulo)
 * 0.5.0 - 05/11/2024 ANDAMENTO: Desenvolvimento do código e circuito (Todos)
-* 0.8.0 - 12/11/2024 ANDAMENTO: Integração ao Blynk (Todos)
+* 0.6.0 - 12/11/2024 ANDAMENTO: Integração ao Blynk (Todos)
     
 
 ## 📋 Licença/License
