@@ -141,10 +141,3 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
-1.https://revistaamazonia.com.br/projeto-de-monitoramento-de
-enchentes-e-coroado-por-impacto-social-significativo/ 
-2.
-3.
-4.
-5.
-6.
