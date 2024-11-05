@@ -73,7 +73,6 @@ Há também 4 pastas que seguem da seguinte forma:
 <br>🛠 Hardware</br>
  <br>•	ESP8266</br>
  <br>•	Sensor ultrassônico </br>
- <br>•	Sensor de temperatura e umidade</br>
  <br>•	Protoboard e Jumpers</br>
  <br>•	Recipiente (Reservatório) </br>
 <br>💻 Software:</br>
