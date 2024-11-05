@@ -71,15 +71,15 @@ Há também 4 pastas que seguem da seguinte forma:
 ![equipamentos](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/1d33c70f-3e62-4414-8b26-f7d5601d1520)
 
 <br>🛠 Hardware</br>
- <br>•	ESP32</br>
- <br>•	Sensor de temperatura DS18B20</br>
+ <br>•	ESP8266</br>
+ <br>•	Sensor ultrassônico </br>
  <br>•	Sensor de turbidez</br>
  <br>•	Protoboard e Jumpers</br>
  <br>•	Conexão Wi-Fi</br>
 <br>💻 Software:</br>
  <br>•	Arduino IDE</br>
- <br>•	Conta no Firebase (para transmissão de dados)</br>
- <br>•	Conta no Flutter Flow (para visualização dos dados)</br>
+ <br>•	Conta no Blynk IOT (para transmissão de dados)</br>
+ 
 
 ## 🛠 Instalação Arduino IDE
 
@@ -104,57 +104,23 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <br>•	Navegue até o local onde você baixou o arquivo .zip e selecione-o.</br>
 <br>•	A biblioteca será adicionada e estará disponível para uso em seus projetos.</br>
 
-<br><strong>📚OneWire</strong></br>
- <br>•	Vá em Sketch > Include Library > Manage Libraries....</br>
- <br>•	Na caixa de busca, digite "OneWire".</br>
- <br>•	Selecione a biblioteca OneWire de Paul Stoffregen e clique em "Install".</br>
-
-<br><strong>📚DallasTemperature</strong></br>
- <br>•	Vá em Sketch > Include Library > Manage Libraries....</br>
- <br>•	Na caixa de busca, digite "DallasTemperature".</br>
- <br>•	Selecione a biblioteca DallasTemperature de Miles Burton e clique em "Install".</br>
-
  <br><strong>📡WiFi</strong></br>
  <br>•	Vá em Sketch > Include Library > Manage Libraries....</br>
  <br>•	Na caixa de busca, digite "WiFi".</br>
  <br>•	Selecione a biblioteca WiFi para ESP32 e clique em "Install".</br>
  
  ## ⚙Configuração do Hardware
-<br><strong>1.	Conectar o Sensor DS18B20 ao ESP32:</strong></br>
- <br>•	Conecte o 3.3V do ESP32 à barra de alimentação positiva (+) na protoboard.</br>
- <br>•	Conecte o GND do ESP32 à barra de alimentação negativa (-) na protoboard.</br>
- <br>•	Conecte o VCC do sensor DS18B20 ao 3.3V do ESP32.</br>
- <br>•	Conecte o GND do sensor DS18B20 ao GND do ESP32.</br>
- <br>•	Conecte o pino DQ do sensor DS18B20 ao pino GPIO 4 do ESP32 (utilize um resistor de pull-up de 4.7kΩ entre VCC e DQ).</br>
-
-<br><strong>2.Conectar o Sensor de Turbidez ao ESP32:</strong></br>
- <br>•	Conecte o 3.3V do ESP32 à barra de alimentação positiva (+) na protoboard.</br>
- <br>•	Conecte o GND do ESP32 à barra de alimentação negativa (-) na protoboard.</br>
- <br>•	Conecte o VCC do sensor de turbidez ao 3.3V do ESP32.</br>
- <br>•	Conecte o GND do sensor de turbidez ao GND do ESP32.</br>
- <br>•	Conecte o pino OUT do sensor de turbidez ao pino GPIO 32 do ESP32.</br>
 
  ## ⚙Configuração do Firebase
-<br><strong>1.	No Firebase Console</strong></br>
- <br>•	Vá para Firestore Database e crie uma nova coleção chamada leitura.</br>
- <br>•	Dentro da coleção leitura, crie um documento com campos correspondentes aos dados que você está enviando do ESP32: temperatura, turbidez, condicao, data, horario.</br>
- <br>•	Em configurações do projeto, copie o “Código do projeto” e a “Chave de API da Web”.</br>
- <br>•	Em Authentication, crie um usuário com email e senha.</br>
 
  ![firebase](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/2dbc1989-21f0-4207-8746-d65eff2a4656)
 
 <br><strong>2.	Defina as credenciais no código:</strong></br>
 
-```sh
-#define API_KEY "sua-chave-de-api"
-#define FIREBASE_PROJECT_ID "id-do-projeto"
-#define USER_EMAIL "seu-email@gmail.com"
-#define USER_PASSWORD "sua-senha"
-````
 
 
 
-## ⌨Carregar o Código no ESP32
+## ⌨Carregar o Código no ESP82
 <br><strong>1.	Conecte o ESP32 ao computador via cabo USB.</strong></br>
 <br><strong>2.	No Arduino IDE, selecione a placa e a porta correspondente ao ESP32:</strong></br>
  <br>•	Vá em Tools > Board e selecione "DOIT ESP32 DEVKIT V1".</br>
