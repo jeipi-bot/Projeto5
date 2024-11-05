@@ -67,7 +67,8 @@ Há também 4 pastas que seguem da seguinte forma:
 - ``Blynk IOT``
 
 ## 📖 Requisitos
-![equipamentos](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/1d33c70f-3e62-4414-8b26-f7d5601d1520)
+![equipamentos](![image](https://github.com/user-attachments/assets/e6d2bfdc-fc2a-47af-86d4-d134264c83af)
+
 
 <br>🛠 Hardware</br>
  <br>•	ESP8266</br>
