@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto Baseado nos Objetivos de Desenvolvimento Sustentável para monitorar enchentes em Áreas de Risco
+# Projeto Baseado nos Objetivos de Desenvolvimento Sustentável para monitorar enchentes em Áreas de Risco.
 
 ## HydroSecure
 
@@ -19,7 +19,7 @@
   <a> Feito por<a> <a href="https://www.een-portugal.pt/news/PublishingImages/ODS.jpg?Width=500">Objetivos de Desenvolvimento Sustentável (ODS)</a>
 </p>
 
-<br> No contexto brasileiro, o aquecimento dos oceanos é uma preocupação que afeta diretamente a biodiversidade marinha, os ecossistemas costeiros e a população em geral e as consequências dessas mudanças climáticas são preocupantes. Sob esta perspectiva, os Objetivos de Desenvolvimento Sustentável (ODS) são essenciais em nosso projeto de monitoramento de temperatura para que esse problema seja acompanhado e controlado. Os ODS incluídos em nosso projeto são o Vida debaixo d'água (ODS 14) e a Ação climática (ODS 13).  Este estudo busca diminuir esses problemas através do monitoramento contínuo da temperatura e do grau de claridade dos oceanos e recifes de corais no território brasileiro, com o intuito de auxiliar ações de conservação e proteção ambiental. </br>
+<br> O projeto "Monitoramento de Enchentes em Áreas de Risco" visa reduzir os impactos das enchentes em áreas vulneráveis, utilizando sensores conectados por IoT para monitorar níveis de água e chuvas em tempo real. Com um sistema de alerta precoce, o projeto notificará a população e autoridades sobre riscos iminentes, garantindo uma resposta rápida. Além disso, um dashboard fornecerá dados para decisões informadas, enquanto campanhas de conscientização prepararão as comunidades para agir de forma segura. O objetivo é proteger vidas, minimizar danos e aumentar a resiliência das comunidades em áreas de risco de inundações. </br>
 
 ## 🔎 Descrição
 ![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)
