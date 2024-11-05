@@ -8,7 +8,7 @@
 
 ## HydroSecure
 
-## Integrantes: <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias  </a>, <a href="https://linkedin.com/in/hebert-/">Eduardo Araujo de Oliveira	</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Saulo Ribeiro Santos	</a>. 
+## Integrantes: <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias  </a>, <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira	</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Saulo Ribeiro Santos	</a>. 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
 
 ## ✏ Introdução
@@ -26,8 +26,7 @@
 
 <p align="center">
 <img src="![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)" border="0">
-  <a> Feito por: <a> <a href="https://www.linkedin.com/in/alexandra-christine-silva-590092257">Caio Dantas Farias </a>, <a href="https://linkedin.com/in/hebert-/">
-Eduardo Araujo de Oliveira</a>,<a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Saulo Ribeiro Santos	</a>.
+  <a> Feito por: <a> <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias </a>, <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>,<a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Saulo Ribeiro Santos	</a>.
 </p>
 
 
@@ -179,12 +178,9 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ## 🗃 Histórico de lançamentos
 
-* 0.1.0 - 10/10/2024
-    * CONCLUÍDO: Compra de materiais (Caio) 
-* 0.2.0 - 12/10/2024
-    *CONCLUÍDO: Template (Eduardo) 
-* 0.3.0 - 23/05/2024
-    * 
+* 0.1.0 - 10/10/2024 CONCLUÍDO: Compra de materiais (Caio) 
+* 0.2.0 - 12/10/2024 CONCLUÍDO: Template (Eduardo) 
+* 0.3.0 - 23/05/2024 
 * 0.4.0 - 24/05/2024
     
 
