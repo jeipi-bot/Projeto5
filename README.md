@@ -102,11 +102,11 @@ https://dl.espressif.com/dl/package_esp32_index.json
  ## ⚙Configuração do Blynk IOT
  <br>• Entre no site do Blykn e faça login:https://blynk.io/</br>
 <br>• Crie um novo projeto e obtenha as credenciais com o token de autenticação;</br>
-<br>• No código do ESP32 inclua a biblioteca do Blynk e insira as credenciais;</br>
+<br>• No código do ESP82 inclua a biblioteca do Blynk e insira as credenciais;</br>
 <br>• Estabeleça a conexão com o servidor do Blynk;</br>
 <br>• Configure os pinos virtuais;</br>
-<br>• Com a conexão, integre o ESP32 ao Blynk;</br>
-<br>• Coloque o ESP32 online;</br>
+<br>• Com a conexão, integre o ES82 ao Blynk;</br>
+<br>• Coloque o ESP82 online;</br>
 <br>• Execute atualizações de firmaware OTA;</br>
 <br>• Contrua a Interface;</br>
 <br>• Configure o modelo, alertas, notificações e automações;</br>
