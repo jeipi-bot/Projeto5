@@ -141,7 +141,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 
 <p Aqui estão as referências usadas no projeto.
-*
+- https://youtu.be/AOnQOy_VnX8?si=LKmRel0goavLuQgR
 *
 *
 *
