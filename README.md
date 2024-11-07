@@ -144,8 +144,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 - https://youtu.be/AOnQOy_VnX8?si=LKmRel0goavLuQgR
 - https://encurtador.com.br/U3AQh
 - https://encurtador.com.br/NfqyE
-*
-*
-*
-*
-*
+- https://youtu.be/rcHlh4b2L1w?si=FsobuTLUKd0_Dysg
+- https://youtu.be/rTk5pmnjdnk?si=sUUzsX75xAjpHkK-
+- https://youtu.be/WBbMHWQwWlY?si=ZKQ65R3WOSuMdFnD
+- https://randomnerdtutorials.com/
+
