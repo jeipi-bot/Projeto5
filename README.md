@@ -30,7 +30,7 @@
 </p>
 
 
-O aumento das enchentes em áreas de risco representa uma séria ameaça à segurança das populações e à sustentabilidade das cidades. Para enfrentar esse desafio, propomos a implementação de um sistema de monitoramento de enchentes utilizando tecnologia IoT (Internet das Coisas), baseada no ESP8266, sensores ultrassônicos para medir os níveis de água e outros componentes para você.
+O aumento das enchentes em áreas de risco representa uma séria ameaça à segurança das populações e à sustentabilidade das cidades. Para enfrentar esse desafio, propomos a implementação de um sistema de monitoramento de enchentes utilizando tecnologia IoT (Internet das Coisas), utilizando ESP8266, sensores ultrassônicos para medir os níveis de água e outros componentes elétricos para desenvolver.
 
 Esse sistema permitirá uma avaliação contínua dos riscos de enchentes, fornecendo dados em tempo real sobre os níveis de água em áreas críticas. As informações serão transmitidas para a plataforma Blynk IoT, que permitirá o monitoramento remoto. A interface do Blynk fornecerá uma visualização acessível e intuitiva, tanto para autoridades quanto para a população, permitindo que eles acompanhem as variações nos níveis de água e identifiquem possíveis riscos de enchimento com
 
@@ -75,7 +75,7 @@ Há também 4 pastas que seguem da seguinte forma:
  <br>•	Sensor ultrassônico </br>
  <br>•	Protoboard e Jumpers</br>
  <br>•	Recipiente (Reservatório) </br>
-<br>💻 Software:</br>
+<br>💻  Software:</br>
  <br>•	Arduino IDE</br>
  <br>•	Conta no Blynk IOT (para transmissão de dados)</br>
  
@@ -100,7 +100,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <br>• Adicione a URL a seguir ao campo "Additional Board Manager URLs"
  
  ## ⚙Configuração do Blynk IOT
- <br>• Entre no site do Blykn e faça login:https://blynk.io/</br>
+<br>• Entre no site do Blykn e faça login:https://blynk.io/</br>
 <br>• Crie um novo projeto e obtenha as credenciais com o token de autenticação;</br>
 <br>• No código do ESP82 inclua a biblioteca do Blynk e insira as credenciais;</br>
 <br>• Estabeleça a conexão com o servidor do Blynk;</br>
@@ -129,12 +129,22 @@ https://dl.espressif.com/dl/package_esp32_index.json
 * 0.1.0 - 10/10/2024 CONCLUÍDO: Compra de materiais (Caio) 
 * 0.2.0 - 12/10/2024 CONCLUÍDO: Template (Eduardo) 
 * 0.3.0 - 23/05/2024 CONCLUÍDO: Teste de sensores (Todos)
-* 0.4.0 - 07/11/2024 ANDAMENTO: Organização do github e pastas (Saulo)
-* 0.5.0 - 05/11/2024 ANDAMENTO: Desenvolvimento do código e circuito (Todos)
-* 0.6.0 - 12/11/2024 ANDAMENTO: Integração ao Blynk (Todos)
+* 0.4.0 - 05/11/2024 ANDAMENTO: Organização do github e pastas (Saulo)
+* 0.5.0 - 07/11/2024 ANDAMENTO: Desenvolvimento do código e circuito (Todos)
+* 0.6.0 - 08/11/2024 ANDAMENTO: Documentação do projeto (Caio)
+* 0.7.0 - 12/11/2024 ANDAMENTO: Integração ao Blynk (Todos)
+* 0.8.0 - 16/11/2024 ANDAMENTO: Conclusão do projeto. 
     
 
 ## 📋 Licença/License
- por através de HydroSecure (em ) © 2024 Caio Dantas, Eduardo Oliveira e Saulo Ribeiro está licenciado sob CC BY 4.0 
+
 
 Aqui estão as referências usadas no projeto.
+*
+*
+*
+*
+*
+*
+*
+*
