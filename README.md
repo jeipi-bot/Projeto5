@@ -139,7 +139,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ## 📋 Licença/License
 
 
-Aqui estão as referências usadas no projeto.
+
+<p Aqui estão as referências usadas no projeto.
 *
 *
 *
