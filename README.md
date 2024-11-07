@@ -142,8 +142,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ## 📋 Referências 
 - https://youtu.be/AOnQOy_VnX8?si=LKmRel0goavLuQgR
-*
-*
+- https://encurtador.com.br/U3AQh
+- https://encurtador.com.br/NfqyE
 *
 *
 *
