@@ -137,7 +137,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
     
 
 ## 📋 Licença/License
-
+ por através de HydroSecure (em ) © 2024 Caio Dantas, Eduardo Oliveira e Saulo Ribeiro está licenciado sob CC BY 4.0 
 
 
 <p Aqui estão as referências usadas no projeto.
