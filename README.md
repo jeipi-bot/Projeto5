@@ -116,13 +116,13 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ## ⌨Carregar o Código no ESP32
 <br><strong>1.	Conecte o ESP32 ao computador via cabo USB.</strong></br>
-<br><strong>2.	No Arduino IDE, selecione a placa e a porta correspondente ao ESP82:</strong></br>
+<br><strong>2.	No Arduino IDE, selecione a placa e a porta correspondente ao ESP32:</strong></br>
  <br>•	Vá em Tools > Board e selecione "DOIT ESP32 DEVKIT V1".</br>
  <br>•	Vá em Tools > Port e selecione a porta onde o ESP32 está conectado.</br>
 <br><strong>3.	Clique em Upload para carregar o código no ESP32.</strong></br>
 
 ## 💻Monitoramento
-<br>•	Abra o Serial Monitor (Ctrl + Shift + M) para ver os dados de depuração e confirmar se o ESP82 está conectando ao Wi-Fi e enviando dados ao Blynk IOT corretamente.</br>
+<br>•	Abra o Serial Monitor (Ctrl + Shift + M) para ver os dados de depuração e confirmar se o ESP32 está conectando ao Wi-Fi e enviando dados ao Blynk IOT corretamente.</br>
 
 
 ## 🗃 Histórico de lançamentos
