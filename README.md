@@ -12,7 +12,7 @@ z# FECAP - Fundação de Comércio Álvares Penteado
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
 
 ## ✏ Introdução
-(![image](https://github.com/user-attachments/assets/74e2a014-e333-4b3a-a447-889365637b44)
+(![ods](https://github.com/2024-1-NADS1-A/Projeto9/blob/main/imagens/ODS.jpg)
 
 <p align="center">
 <img src="![ods](https://github.com/2024-1-NADS1-A/Projeto9/blob/main/imagens/ODS.jpg)" border="0">
