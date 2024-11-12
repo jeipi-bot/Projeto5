@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<img src="![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)" border="0">
+          <img src="![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)" border="0">
   <a> Feito por: <a> <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias </a>, <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>,<a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos	</a>.
 </p>
 
