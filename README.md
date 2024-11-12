@@ -6,7 +6,7 @@
 
 # Projeto Baseado nos Objetivos de Desenvolvimento Sustentável para monitorar enchentes em Áreas de Risco.
 
-## HydroSecure
+## 🌎 HydroSecure
 
 ## Integrantes: <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias  </a>, <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira	</a> e <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos	</a>. 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
