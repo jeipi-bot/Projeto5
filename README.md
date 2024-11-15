@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
 <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
 <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
-
+<div align="center">
 
 O aumento das enchentes em áreas de risco representa uma séria ameaça à segurança das populações e à sustentabilidade das cidades. Para enfrentar esse desafio, propomos a implementação de um sistema de monitoramento de enchentes utilizando tecnologia IoT (Internet das Coisas), utilizando ESP32, sensores ultrassônicos para medir os níveis de água e outros componentes elétricos para desenvolver.
 
@@ -164,14 +164,15 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <br>•	Abra o Serial Monitor (Ctrl + Shift + M) para ver os dados de depuração e confirmar se o ESP32 está conectando ao Wi-Fi e enviando dados ao Blynk IOT corretamente.</br>
 
 ## 🗃 Histórico de Lançamentos
-0.1.0 - 10/10/2024: Compra de materiais.
-0.2.0 - 12/10/2024: Criação do template.
-0.3.0 - 23/05/2024: Teste de sensores.
-0.4.0 - 05/11/2024: Organização do GitHub e pastas.
-0.5.0 - 07/11/2024: Desenvolvimento do código e circuito.
-0.6.0 - 08/11/2024: Documentação do projeto.
-0.7.0 - 12/11/2024: Integração ao Blynk.
-0.8.0 - 16/11/2024: Conclusão do projeto.
+
+- **0.1.0** - 10/10/2024: Compra de materiais.
+- **0.2.0** - 12/10/2024: Criação do template.
+- **0.3.0** - 23/05/2024: Teste de sensores.
+- **0.4.0** - 05/11/2024: Organização do GitHub e pastas.
+- **0.5.0** - 07/11/2024: Desenvolvimento do código e circuito.
+- **0.6.0** - 08/11/2024: Documentação do projeto.
+- **0.7.0** - 12/11/2024: Integração ao Blynk.
+- **0.8.0** - 16/11/2024: Conclusão do projeto.
 
    
 ## 📋 Licença/License
