@@ -1,4 +1,4 @@
-![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_36fe1769](https://github.com/user-attachments/assets/a73fc526-81f2-49cb-b9c0-61f072a97b6e)## FECAP - Fundação de Comércio Álvares Penteado
+## FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
