@@ -1,4 +1,4 @@
-## FECAP - Fundação de Comércio Álvares Penteado
+![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_36fe1769](https://github.com/user-attachments/assets/a73fc526-81f2-49cb-b9c0-61f072a97b6e)## FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
@@ -44,12 +44,12 @@ Além de oferecer dados cruciais para a gestão de emergências, o projeto tem c
 
 
 ## 📱 Telas do Blynk IoT
+ <div align="center">
 
-<div align="center">
+<img src="https://github.com/user-attachments/assets/1eac65d5-a452-4d5a-8591-ad05e63e7699" alt="Imagem do WhatsApp de 2024-11-15 à(s) 13 44 06" width="45%">
+<img src="https://github.com/user-attachments/assets/4ee716b6-5d14-43f3-b836-a731c2f1846f" alt="Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58" width="45%">
 
-![Imagem do WhatsApp de 2024-11-15 à(s) 13 44 06_7aa34508](https://github.com/user-attachments/assets/1eac65d5-a452-4d5a-8591-ad05e63e7699)
-![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_36fe1769](https://github.com/user-attachments/assets/4ee716b6-5d14-43f3-b836-a731c2f1846f)
-
+</div>
 
 ### Feito por:
 <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
