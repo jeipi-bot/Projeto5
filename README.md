@@ -32,6 +32,10 @@ Esse sistema permitirá uma avaliação contínua dos riscos de enchentes, forne
 
 Além de oferecer dados cruciais para a gestão de emergências, o projeto tem como objetivo promover a conscientização sobre a importância da prevenção de desastres naturais. Espera-se que essas informações auxiliem na criação de políticas públicas mais eficazes e em estratégias de planejamento urbano voltadas para a redução dos impactos das enchentes em áreas vulneráveis. Com isso, buscamos minimizar os danos.
 
+## 📱 Telas do Blynl IOT
+![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_e3bee5a2](https://github.com/user-attachments/assets/0e1ab97a-b10c-445d-b91f-cd3f0429f628)
+
+
 
 ## 🛠 Estrutura de pastas
 
