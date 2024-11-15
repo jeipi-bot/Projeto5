@@ -163,19 +163,17 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ## 💻Monitoramento
 <br>•	Abra o Serial Monitor (Ctrl + Shift + M) para ver os dados de depuração e confirmar se o ESP32 está conectando ao Wi-Fi e enviando dados ao Blynk IOT corretamente.</br>
 
+## 🗃 Histórico de Lançamentos
+0.1.0 - 10/10/2024: Compra de materiais.
+0.2.0 - 12/10/2024: Criação do template.
+0.3.0 - 23/05/2024: Teste de sensores.
+0.4.0 - 05/11/2024: Organização do GitHub e pastas.
+0.5.0 - 07/11/2024: Desenvolvimento do código e circuito.
+0.6.0 - 08/11/2024: Documentação do projeto.
+0.7.0 - 12/11/2024: Integração ao Blynk.
+0.8.0 - 16/11/2024: Conclusão do projeto.
 
-## 🗃 Histórico de lançamentos
-
-* 0.1.0 - 10/10/2024 CONCLUÍDO: Compra de materiais (Caio) 
-* 0.2.0 - 12/10/2024 CONCLUÍDO: Template (Eduardo) 
-* 0.3.0 - 23/05/2024 CONCLUÍDO: Teste de sensores (Todos)
-* 0.4.0 - 05/11/2024 CONCLUÍDO: Organização do github e pastas (Saulo)
-* 0.5.0 - 07/11/2024 CONCLUÍDO: Desenvolvimento do código e circuito (Todos)
-* 0.6.0 - 08/11/2024 CONCLUÍDO: Documentação do projeto (Caio)
-* 0.7.0 - 12/11/2024 CONCLUÍDO: Integração ao Blynk (Todos)
-* 0.8.0 - 16/11/2024 CONCLUÍDO: Conclusão do projeto. 
-    
-
+   
 ## 📋 Licença/License
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-2-NADS1/Projeto5">HydroSecure</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
