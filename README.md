@@ -46,8 +46,13 @@ Além de oferecer dados cruciais para a gestão de emergências, o projeto tem c
 ## 📱 Telas do Blynk IoT
 
 ![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_e3bee5a2](https://github.com/user-attachments/assets/0e1ab97a-b10c-445d-b91f-cd3f0429f628)
+### Feito por:
+<a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
+<a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
+<a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
 
 </div>
+
 
 ### 🛠️ Funcionalidade do Dashboard de Monitoramento do Blynk
 O dashboard de monitoramento do Blynk IoT é uma interface personalizada que permite acompanhar em tempo real os dados coletados pelos dispositivos IoT conectados ao sistema. Sua funcionalidade inclui:
@@ -68,13 +73,6 @@ O dashboard de monitoramento do Blynk IoT é uma interface personalizada que per
    - Armazenamento de registros históricos para análise de tendências e relatórios.
 
 O **Blynk IoT** oferece uma solução prática, intuitiva e eficiente para monitoramento e controle remoto de dispositivos, permitindo que os usuários tenham total visibilidade sobre o funcionamento de seus sistemas conectados.
-
-### Feito por:
-<a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
-<a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
-<a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
-
-</div>
 
 
 ## 🛠 Estrutura de pastas
