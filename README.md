@@ -102,12 +102,11 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>src</b>: Pasta que contém o código fonte.
 
 ## ✔️ Técnicas e tecnologias utilizadas
+- ``C++``
+- ``Arduino IDE``
+- ``Blynk IOT``
 
-- 'C++
-- `Arduino IDE
-- `Blynk IOT
-
-## 📖 Requisitos
+## 📖 Requisitos 
 ![image](https://github.com/user-attachments/assets/b7d1debe-fba1-4727-889b-dd0fab4178bb)
 
 
