@@ -47,7 +47,9 @@ Além de oferecer dados cruciais para a gestão de emergências, o projeto tem c
 
 <div align="center">
 
-![Imagem do WhatsApp de 2024-11-14 à(s) 21 19 18_0ac763a3](https://github.com/user-attachments/assets/0be2721f-3045-4204-9a1c-9a73c3f5ace5)
+![Imagem do WhatsApp de 2024-11-15 à(s) 13 44 06_7aa34508](https://github.com/user-attachments/assets/1eac65d5-a452-4d5a-8591-ad05e63e7699)
+![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_36fe1769](https://github.com/user-attachments/assets/4ee716b6-5d14-43f3-b836-a731c2f1846f)
+
 
 ### Feito por:
 <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
