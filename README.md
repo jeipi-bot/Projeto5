@@ -25,14 +25,16 @@
 
 ## 🔎 Descrição
 
+<div align="center">
+
 ![Imagem do WhatsApp de 2024-11-14 à(s) 21 19 18_0ac763a3](https://github.com/user-attachments/assets/0be2721f-3045-4204-9a1c-9a73c3f5ace5)
 
 ### Feito por:
 <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
 <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
 <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
-<div align="center">
 
+</div>
 O aumento das enchentes em áreas de risco representa uma séria ameaça à segurança das populações e à sustentabilidade das cidades. Para enfrentar esse desafio, propomos a implementação de um sistema de monitoramento de enchentes utilizando tecnologia IoT (Internet das Coisas), utilizando ESP32, sensores ultrassônicos para medir os níveis de água e outros componentes elétricos para desenvolver.
 
 Esse sistema permitirá uma avaliação contínua dos riscos de enchentes, fornecendo dados em tempo real sobre os níveis de água em áreas críticas. As informações serão transmitidas para a plataforma Blynk IoT, que permitirá o monitoramento remoto. A interface do Blynk fornecerá uma visualização acessível e intuitiva, tanto para autoridades quanto para a população, permitindo que eles acompanhem as variações nos níveis de água e identifiquem possíveis riscos de enchimento com
