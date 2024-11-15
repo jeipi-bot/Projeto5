@@ -56,22 +56,22 @@ Além de oferecer dados cruciais para a gestão de emergências, o projeto tem c
 <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
 
 
-### 🛠️ Funcionalidade do Dashboard de Monitoramento do Blynk
+## 🛠️ Funcionalidade do Dashboard de Monitoramento do Blynk
 O dashboard de monitoramento do Blynk IoT é uma interface personalizada que permite acompanhar em tempo real os dados coletados pelos dispositivos IoT conectados ao sistema. Sua funcionalidade inclui:
 
-1. **Visualização em Tempo Real**:
+1. Visualização em Tempo Real:
    - Gráficos dinâmicos para acompanhar variações de dados, como temperatura, umidade ou qualidade da água.
    - Indicadores de status para monitorar a operação de sensores e dispositivos.
 
-2. **Controle de Dispositivos**:
+2. Controle de Dispositivos:
    - Ativação e desativação de dispositivos IoT diretamente pelo aplicativo ou dashboard.
    - Ajuste de parâmetros como limites de alarme ou configurações de sensores.
 
-3. **Alertas e Notificações**:
+3. Alertas e Notificações:
    - Recebimento de alertas automáticos quando os parâmetros monitorados ultrapassam limites pré-definidos.
    - Configuração de notificações push ou por e-mail.
 
-4. **Histórico de Dados**:
+4. Histórico de Dados:
    - Armazenamento de registros históricos para análise de tendências e relatórios.
 
 O **Blynk IoT** oferece uma solução prática, intuitiva e eficiente para monitoramento e controle remoto de dispositivos, permitindo que os usuários tenham total visibilidade sobre o funcionamento de seus sistemas conectados.
