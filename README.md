@@ -41,9 +41,40 @@ Esse sistema permitirá uma avaliação contínua dos riscos de enchentes, forne
 
 Além de oferecer dados cruciais para a gestão de emergências, o projeto tem como objetivo promover a conscientização sobre a importância da prevenção de desastres naturais. Espera-se que essas informações auxiliem na criação de políticas públicas mais eficazes e em estratégias de planejamento urbano voltadas para a redução dos impactos das enchentes em áreas vulneráveis. Com isso, buscamos minimizar os danos.
 
-## 📱 Telas do Blynl IOT
+<div align="center">
+
+## 📱 Telas do Blynk IoT
+
 ![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_e3bee5a2](https://github.com/user-attachments/assets/0e1ab97a-b10c-445d-b91f-cd3f0429f628)
 
+</div>
+
+### 🛠️ Funcionalidade do Dashboard de Monitoramento do Blynk
+O dashboard de monitoramento do Blynk IoT é uma interface personalizada que permite acompanhar em tempo real os dados coletados pelos dispositivos IoT conectados ao sistema. Sua funcionalidade inclui:
+
+1. **Visualização em Tempo Real**:
+   - Gráficos dinâmicos para acompanhar variações de dados, como temperatura, umidade ou qualidade da água.
+   - Indicadores de status para monitorar a operação de sensores e dispositivos.
+
+2. **Controle de Dispositivos**:
+   - Ativação e desativação de dispositivos IoT diretamente pelo aplicativo ou dashboard.
+   - Ajuste de parâmetros como limites de alarme ou configurações de sensores.
+
+3. **Alertas e Notificações**:
+   - Recebimento de alertas automáticos quando os parâmetros monitorados ultrapassam limites pré-definidos.
+   - Configuração de notificações push ou por e-mail.
+
+4. **Histórico de Dados**:
+   - Armazenamento de registros históricos para análise de tendências e relatórios.
+
+O **Blynk IoT** oferece uma solução prática, intuitiva e eficiente para monitoramento e controle remoto de dispositivos, permitindo que os usuários tenham total visibilidade sobre o funcionamento de seus sistemas conectados.
+
+### Feito por:
+<a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
+<a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
+<a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
+
+</div>
 
 
 ## 🛠 Estrutura de pastas
@@ -77,7 +108,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 📖 Requisitos
 ![image](https://github.com/user-attachments/assets/b7d1debe-fba1-4727-889b-dd0fab4178bb)
-
 
 
 <br>🛠 Hardware</br>
