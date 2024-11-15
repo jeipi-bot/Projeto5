@@ -19,11 +19,18 @@
 </p>
 
 <br> O projeto "Monitoramento de Enchentes em Áreas de Risco" visa reduzir os impactos das enchentes em áreas vulneráveis, utilizando sensores conectados por IoT para monitorar níveis de água e chuvas em tempo real. Com um sistema de alerta precoce, o projeto notificará a população e autoridades sobre riscos iminentes, garantindo uma resposta rápida. Além disso, um dashboard fornecerá dados para decisões informadas, enquanto campanhas de conscientização prepararão as comunidades para agir de forma segura. O objetivo é proteger vidas, minimizar danos e aumentar a resiliência das comunidades em áreas de risco de inundações. </br>
+<div align="center">
 
 ## 🔎 Descrição
+
 ![Imagem do WhatsApp de 2024-11-14 à(s) 21 19 18_0ac763a3](https://github.com/user-attachments/assets/0be2721f-3045-4204-9a1c-9a73c3f5ace5)
-  <a> Feito por: <a> <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>.
-  </p>
+
+### Feito por:
+<a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
+<a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
+<a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
+
+</div>
 
 O aumento das enchentes em áreas de risco representa uma séria ameaça à segurança das populações e à sustentabilidade das cidades. Para enfrentar esse desafio, propomos a implementação de um sistema de monitoramento de enchentes utilizando tecnologia IoT (Internet das Coisas), utilizando ESP32, sensores ultrassônicos para medir os níveis de água e outros componentes elétricos para desenvolver.
 
