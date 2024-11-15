@@ -47,14 +47,14 @@ Além de oferecer dados cruciais para a gestão de emergências, o projeto tem c
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0e1ab97a-b10c-445d-b91f-cd3f0429f628" alt="Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58" width="45%">
-<img src="https://github.com/user-attachments/assets/48ad0ecd-a942-49cd-a169-aba2fe408de9" alt="Imagem do WhatsApp de 2024-11-15 à(s) 13 44 06" width="45%">
+![Imagem do WhatsApp de 2024-11-14 à(s) 21 19 18_0ac763a3](https://github.com/user-attachments/assets/0be2721f-3045-4204-9a1c-9a73c3f5ace5)
 
-</div>
 ### Feito por:
 <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
 <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
 <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
+
+</div>
 
 
 ## 🛠️ Funcionalidade do Dashboard de Monitoramento do Blynk
