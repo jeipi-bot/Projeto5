@@ -49,7 +49,7 @@ Além de oferecer dados cruciais para a gestão de emergências, o projeto tem c
 <img src="https://github.com/user-attachments/assets/1eac65d5-a452-4d5a-8591-ad05e63e7699" alt="Imagem do WhatsApp de 2024-11-15 à(s) 13 44 06" width="45%">
 <img src="https://github.com/user-attachments/assets/4ee716b6-5d14-43f3-b836-a731c2f1846f" alt="Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58" width="45%">
 
-</div>
+<div align="center">
 
 ### Feito por:
 <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
