@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## ✏ Introdução
+## ✏️ Introdução
 
 ![ods](https://github.com/2024-1-NADS1-A/Projeto9/blob/main/imagens/ODS.jpg)
 
@@ -178,7 +178,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-2-NADS1/Projeto5">HydroSecure</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 📋 Referências 
-- https://youtu.be/AOnQOy_VnX8?si=LKmRel0goavLuQgR
+- https://youtu.be/AOnQOy_VnX8?si=LKmRel0goavLuQgR 
 - https://encurtador.com.br/U3AQh
 - https://encurtador.com.br/NfqyE
 - https://youtu.be/rcHlh4b2L1w?si=FsobuTLUKd0_Dysg
