@@ -33,7 +33,6 @@
 <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
 <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
 
-</div>
 
 O aumento das enchentes em áreas de risco representa uma séria ameaça à segurança das populações e à sustentabilidade das cidades. Para enfrentar esse desafio, propomos a implementação de um sistema de monitoramento de enchentes utilizando tecnologia IoT (Internet das Coisas), utilizando ESP32, sensores ultrassônicos para medir os níveis de água e outros componentes elétricos para desenvolver.
 
@@ -43,17 +42,18 @@ Além de oferecer dados cruciais para a gestão de emergências, o projeto tem c
 
 <div align="center">
 
-##📱 Telas do Blynk IoT
+## 📱 Telas do Blynk IoT
 
-![Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58_e3bee5a2](https://github.com/user-attachments/assets/0e1ab97a-b10c-445d-b91f-cd3f0429f628)
-![Imagem do WhatsApp de 2024-11-15 à(s) 13 44 06_e3caf117](https://github.com/user-attachments/assets/48ad0ecd-a942-49cd-a169-aba2fe408de9)
+<div align="center">
 
+<img src="https://github.com/user-attachments/assets/0e1ab97a-b10c-445d-b91f-cd3f0429f628" alt="Imagem do WhatsApp de 2024-11-14 à(s) 21 36 58" width="45%">
+<img src="https://github.com/user-attachments/assets/48ad0ecd-a942-49cd-a169-aba2fe408de9" alt="Imagem do WhatsApp de 2024-11-15 à(s) 13 44 06" width="45%">
+
+</div>
 ### Feito por:
 <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias</a>, 
 <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>, 
 <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos</a>
-
-</div>
 
 
 ### 🛠️ Funcionalidade do Dashboard de Monitoramento do Blynk
